@@ -33,7 +33,7 @@ namespace formdemoapp
                 category = txtCategory.Text,
                 origin = optAbroad.Checked ? "Abroad" : "Local",
                 isActive = chkIsActive.Checked,
-               // cost =  decimal.TryParse,
+                cost = 100,
                // price = Convert.ToDecimal(txtPrice.Text)
             };
 
