@@ -1,0 +1,9 @@
+*.db-shm
+*.db-wal
+*.db-shm
+*.vsidx
+*.vsidx
+/1 - formdemoapp/.vs/formdemoapp/FileContentIndex
+/1 - formdemoapp/.vs
+/1 - formdemoapp/bin
+/1 - formdemoapp/obj
