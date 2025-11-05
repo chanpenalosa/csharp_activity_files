@@ -1,0 +1,10 @@
+D:\dev\C# Winforms\formdemo1\formdemoapp\bin\Debug\formdemoapp.exe.config
+D:\dev\C# Winforms\formdemo1\formdemoapp\bin\Debug\formdemoapp.exe
+D:\dev\C# Winforms\formdemo1\formdemoapp\bin\Debug\formdemoapp.pdb
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.csproj.AssemblyReference.cache
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.frmPoduct.resources
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.Properties.Resources.resources
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.csproj.GenerateResource.cache
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.csproj.CoreCompileInputs.cache
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.exe
+D:\dev\C# Winforms\formdemo1\formdemoapp\obj\Debug\formdemoapp.pdb
